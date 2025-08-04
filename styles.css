@@ -22,7 +22,7 @@ body {
 
 .card {
     width: 320px;
-    height: 522px;
+    height: 500px;
     background-color: var(--White);
     border-radius: 20px;
     display: flex;
@@ -46,7 +46,7 @@ body {
     text-align: center;
 }
 
-.content h2 {
+.content h1 {
     color: var(--Slate-900);
     font-size: 22px;
     font-weight: 700;
