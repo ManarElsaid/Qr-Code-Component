@@ -22,7 +22,7 @@ body {
 
 .card {
     width: 320px;
-    height: 500px;
+    height: 100%;
     background-color: var(--White);
     border-radius: 20px;
     display: flex;
@@ -33,7 +33,7 @@ body {
 
 .qr-code {
     width: 288px;
-    height: 288px;
+    /* height: 288px; */
     border-radius: 10px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     margin: 20px;
@@ -41,6 +41,7 @@ body {
 
 .content {
     /* border: 5px solid red; */
+    margin: 20px auto;
     padding: 10px 20px;
     font-family: "Outfit", sans-serif;
     text-align: center;
